@@ -15,3 +15,5 @@ TP1-data.csv -> the data used
 
 tp1.py -> the code
 ```
+
+Note: the report is written in Portuguese.
