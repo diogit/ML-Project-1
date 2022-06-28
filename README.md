@@ -1,2 +1,17 @@
-# ML-Project-1
-Machine Learning 1st Project - Classifier Comparison.
+# Classifier Comparison - parameterizing, training and comparing the performance of the classifiers: logistic regression, k-nearest neighbours and Naïve Bayes
+
+### Made by:
+
+* Diogo Silvério
+* Pedro Xavier
+
+### Folder Content:
+```
+README.md -> this file
+
+report.pdf -> the project report
+
+TP1-data.csv -> the data used
+
+tp1.py -> the code
+```
